@@ -1,0 +1,37 @@
+<mjml>
+  <mj-head>
+    <mj-title>Hello world</mj-title>
+    <mj-attributes>
+      <mj-all font-family="-apple-system,BlinkMacSystemFont,Helvetica,sans-serif"></mj-all>
+      <mj-text font-size="15px" color="#5b5b5b" line-height="150%"></mj-text>
+      <mj-section background-color="white"></mj-section>
+    </mj-attributes>
+    <mj-style>
+      a {
+        color: #a74b66;
+        text-decoration: underline;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#e3e3e3" padding-top="20px">
+    <mj-section padding="10px 0">
+      <mj-group>
+        <mj-column>
+          <mj-text align="left" font-size="12px">
+            Issue 1 – 21 Aug 2018
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="right" font-size="12px">
+            <a href="*|ARCHIVE|*" target="_blank">Open in the browser</a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-image width="700px" src="https://this-week-in-react.org/src/issues/3/issue.png" padding="0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
