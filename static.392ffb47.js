@@ -374,6 +374,15 @@ var Home = function (_React$Component) {
                   null,
                   _react2.default.createElement(
                     "a",
+                    { href: "https://twitter.com/PhilippSpiess/status/1055869112277258240" },
+                    "Issue 6 \u2014 26 Oct 2018"
+                  )
+                ),
+                _react2.default.createElement(
+                  "li",
+                  null,
+                  _react2.default.createElement(
+                    "a",
                     { href: "https://twitter.com/PhilippSpiess/status/1053325077687820293" },
                     "Issue 5 \u2014 19 Oct 2018"
                   )
@@ -1632,4 +1641,4 @@ module.exports = __webpack_require__.p + "static/twitter-card.29f20305.png";
 /***/ })
 /******/ ]);
 });
-//# sourceMappingURL=static.1ea53e6a.js.map
+//# sourceMappingURL=static.392ffb47.js.map
